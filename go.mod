@@ -1,4 +1,4 @@
-module github.com/aschenmaker/fiber-opentracing
+module github.com/ibenitez/fiber-opentracing
 
 go 1.16
 

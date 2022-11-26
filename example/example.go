@@ -4,9 +4,9 @@ import (
 	"os"
 	"os/signal"
 
-	fibertracing "github.com/aschenmaker/fiber-opentracing"
-	"github.com/aschenmaker/fiber-opentracing/fjaeger"
 	"github.com/gofiber/fiber/v2"
+	fibertracing "github.com/ibenitez/fiber-opentracing"
+	"github.com/ibenitez/fiber-opentracing/fjaeger"
 	"github.com/opentracing/opentracing-go"
 )
 
